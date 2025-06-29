@@ -1,0 +1,1 @@
+# como-cliq-auto-messages.

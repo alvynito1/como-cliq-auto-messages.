@@ -1,1 +1,1 @@
-# como-cliq-auto-messages.
+.github/workflows/mensaje.yml

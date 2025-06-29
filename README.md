@@ -1,4 +1,4 @@
-.github/workflows/mensaje.yml
+.github/workflows/cliq-reporte-draco.yml
 name: Reporte automático de Draco 4
 
 on:
